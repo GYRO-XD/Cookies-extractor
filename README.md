@@ -9,8 +9,9 @@ Simple tool for getting Cookies of Facebook multiple Ids at Once, Coded By GYRO
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/farhaanaliii/Cookies
-cd Cookies
+git clone
+https://github.com/GYRO-XD/Cookies-extractor.git
+cd Cookies-extractor
 ```
 
 ### 2. Install dependencies
@@ -22,7 +23,7 @@ pip install -r requirements.txt
 ### 3. Run the script
 To start the tool:
 ```bash
-python main.py
+python cookies.py
 ```
 
 ### 4. Enter file containing Facebook IDs
