@@ -46,8 +46,6 @@ The tool will then attempt to log in to each Facebook account and save the cooki
 ## Screenshot
 ![Screenshot](https://raw.githubusercontent.com/GYRO-XD/Cookies-extractor/refs/heads/main/Screenshot_20250614-192252_Termux.jpg)
 
-## Open Source
-This tool is open-source, so feel free to use and modify it. However, you must give credit to the original author.
 
 ## Version
 Version 1.0
